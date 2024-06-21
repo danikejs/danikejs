@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=ff0059&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Abdalla!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=eb1f6a&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Abdalla!" alt="Typing SVG" /></a>
 :brazil: :imp: :syria:
 
 ![danikejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=danikejs&theme=monokai#gh-dark-mode-only)
@@ -6,7 +6,7 @@
 <br>
 
 <hr>
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0059&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=eb1f6a&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
 
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
