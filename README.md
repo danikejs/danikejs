@@ -5,7 +5,7 @@
 <br>
 
 <hr>
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=eb1f6a&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
 
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
