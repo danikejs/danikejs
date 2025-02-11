@@ -6,8 +6,6 @@
 </div>
 
 
-<BR>
-
 <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=eb1f6a&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
