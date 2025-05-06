@@ -7,7 +7,7 @@
 
 
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=eb1f6a&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><p/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikejs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
